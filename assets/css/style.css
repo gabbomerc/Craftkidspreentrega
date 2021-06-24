@@ -29,7 +29,9 @@
 /****************************************************** */
 /*******************  01. Default CSS ***************** */
 /****************************************************** */
-
+#comunidad {
+	background-image: linear-gradient(to bottom, #accbee 0%, #e7f0fd 100%);
+}
 .items-gabbo{
     list-style-position: outside;
     margin-bottom: 5px;
