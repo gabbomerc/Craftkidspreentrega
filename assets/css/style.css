@@ -31,6 +31,12 @@
 /****************************************************** */
 
 
+.backgroundmarketing {
+   
+    background-image: url('/assets/images/banner/backrgound.png');
+    background-position: center;
+    
+}
 .supporters {
     background-color: #0E1155;
 }
@@ -784,7 +790,7 @@ a.theme-btn.style-four:hover {
 a.theme-btn.style-three,
 .theme-btn.style-four,
 a.theme-btn.style-four {
-    background-color: #0E1155;
+    background-color: #FFFFFF;
 }
 
 .bg-one {
@@ -876,15 +882,18 @@ a.theme-btn.style-three:before,
 }
 
 .service-item.style-one {
-    border-color: #fbaaa9;
+    background-color: #0E1155;
+    border-color: #6E91F5;
 }
 
 .service-item.style-two {
-    border-color: #e8e8d3;
+    background-color: #0E1155;
+    border-color: #f260ff;
 }
 
 .service-item.style-three {
-    border-color: #bfe0e0;
+    background-color: #0E1155;
+    border-color: #ffaf8f;
 }
 
 .service-item.style-four {
@@ -1216,7 +1225,7 @@ a.theme-btn.style-three:before,
 .what-experct-img {
     height: 100%;
     min-height: 400px;
-    background: url('../images/services/service-man.png') center/cover;
+    background: url('../images/services/service-fam.png') center/cover;
 }
 
 .what-experct {
